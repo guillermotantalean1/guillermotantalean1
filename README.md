@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Guillermo Tantaleán, pero puedes decirme Guillermo 
+# 👋 ¡Hola! Soy Guillermo Tantaleán 
 
 💻 **iOS & Backend Developer** | Swift | Python | JavaScript  
 🚀 Construyendo productos digitales y aprendiendo nuevas tecnologías  
