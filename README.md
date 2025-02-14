@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Guillermo Tantaleán, pero puedes decirme Guillermo 
 
-<!--
-**guillermotantalean1/guillermotantalean1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **iOS & Backend Developer** | Swift | Python | JavaScript  
+🚀 Construyendo productos digitales y aprendiendo nuevas tecnologías  
+🎙️ Host de [Café con Código](https://open.spotify.com/show/3JY6UfLd8bRRatuzAveOBy?si=djYymHI6SX6IN-PHgJp-8w)  
 
-Here are some ideas to get you started:
+📌 **Proyectos Destacados:**  
+- 🛒 [Petlandia - E-commerce para Mascotas](https://petlandia.pe)  
+- 🌐 [Café con Código - Landing Page](https://cafeconcodigo.pe)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Conéctate conmigo:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](www.linkedin.com/in/guillermotantalean1)  
+[![Portfolio](https://img.shields.io/badge/Portafolio-Web-orange?style=flat)](https://guillermotantalean.com/)  
